@@ -1,7 +1,8 @@
 # GDPR Violations Analysis Dashboard
 <p align="center">
-  <img src="Assets/Images/Dashboard.JPG" width="50%" alt="Dashboard Image">
+  <img src="Assets/Images/GDPR.png" width="50%" alt="GDPR Dashboard">
 </p>
+
 
 ## Project Description
 
