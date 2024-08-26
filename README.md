@@ -1,4 +1,5 @@
 # GDPR Violations Analysis Dashboard
+![Dashboard Image](Assets/Images/Dashboard.JPG)
 
 ## Project Description
 
