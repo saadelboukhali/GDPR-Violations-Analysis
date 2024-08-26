@@ -23,8 +23,8 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 1. **Total Fine Amount by Country**: A bar chart displaying the total fines imposed by each country.
 2. **Number of Violations by Article Violated**: A visual representation of the frequency of violations per GDPR article.
 3. **Number of Violations by Country**: A bar chart highlighting which countries have the highest number of GDPR violations.
-4. **Total Fine Amount by Controller Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
-5. **Trend of Violations (2018-2020)**: A line chart illustrating the trend of violations over time, helping to identify patterns or increases in non-compliance.
+4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
+5. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount per business sector.
 6. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
 7. **Country Filter**: A filter was included to allow users to drill down into the data by country, providing more granular insights.
 
