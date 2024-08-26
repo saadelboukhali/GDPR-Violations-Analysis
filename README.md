@@ -1,5 +1,7 @@
 # GDPR Violations Analysis Dashboard
-![Dashboard Image](Assets/Images/Dashboard.JPG)
+<p align="center">
+  <img src="Assets/Images/Dashboard.JPG" width="50%" alt="Dashboard Image">
+</p>
 
 ## Project Description
 
