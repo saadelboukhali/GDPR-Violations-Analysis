@@ -54,11 +54,11 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 6. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
 7. **Country Filter**: A filter was included to allow users to drill down into the data by country, providing more granular insights.
 <p align="center">
-  <img src="Assets/Images/Country.png" alt="Country" width="800">
+  <img src="Assets/Images/Country.png" alt="Country" width="500">
 </p>
 
 
-## Insights
+## Key Insights
 
 This project highlights the widespread impact of GDPR across various sectors and countries, offering key insights into areas with the highest risk of non-compliance. The combination of thorough data preparation and targeted visualizations provides a comprehensive view of GDPR enforcement and its financial implications.
 
