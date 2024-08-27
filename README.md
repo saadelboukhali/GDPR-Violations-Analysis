@@ -26,17 +26,37 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 1. **Total Fine Amount by Country**: A bar chart displaying the total fines imposed by each country.
 <p align="center">
-  <img src="Assets/Images/Total Fine Amount by Country.JPG" alt="Total Fine Amount by Country" width="300">
+  <img src="Assets/Images/Total Fine Amount by Country.png" alt="Total Fine Amount by Country" width="800">
 </p>
 
 
+2. **Number of Violations by Article Violated**: A visual representation of the frequency of violations per GDPR article.
+<p align="center">
+  <img src="Assets/Images/Number of Violations by Article Violated.png" alt="Number of Violations by Article Violated" width="800">
+</p>
 
-3. **Number of Violations by Article Violated**: A visual representation of the frequency of violations per GDPR article.
-4. **Number of Violations by Country**: A bar chart highlighting which countries have the highest number of GDPR violations.
-5. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
-6. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount per business sector.
-7. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
-8. **Country Filter**: A filter was included to allow users to drill down into the data by country, providing more granular insights.
+3. **Number of Violations by Country**: A bar chart highlighting which countries have the highest number of GDPR violations.
+<p align="center">
+  <img src="Assets/Images/Number of GDPR Violations by Country.png" alt="Number of GDPR Violations by Country" width="800">
+</p>
+
+4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
+<p align="center">
+  <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="800">
+</p>
+
+
+5. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount per business sector.
+<p align="center">
+  <img src="Assets/Images/Average of Fine Amount by Business Sector-1.png" alt="Average of Fine Amount by Business Sector" width="800">
+</p>
+
+6. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
+7. **Country Filter**: A filter was included to allow users to drill down into the data by country, providing more granular insights.
+<p align="center">
+  <img src="Assets/Images/Country.png" alt="Country" width="800">
+</p>
+
 
 ## Insights
 
