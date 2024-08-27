@@ -21,6 +21,8 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
   - The fine amount column was standardized to a currency data type.
   - The 'Article Violated' column, which contained multiple articles per entry, was split and unpivoted to ensure each violation was represented individually.
   - A new column, 'Controller Sector,' was added to classify each controller according to their sector of work using the conditional column feature.
+ 
+- After our data preparation, our dataset includes the following columns: 'violation', 'country', 'authority', 'controller', 'fine amount in euros', 'type of violation', 'year', 'article violated', and 'controller sector' .
 
 ## Visualizations
 
