@@ -54,8 +54,8 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 6. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
 
 8. **Country Filter**: A filter was included to allow users to drill down into the data by country, providing more granular insights.
-<p align="center">
-  <img src="Assets/Images/Country.png" alt="Country" width="500">
+
+  <img src="Assets/Images/Country.png" alt="Country" width="300">
 </p>
 
 
