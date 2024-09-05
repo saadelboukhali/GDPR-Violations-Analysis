@@ -65,7 +65,6 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 ## Key Insights
 
-This project highlights the widespread impact of GDPR across various sectors and countries, offering key insights into areas with the highest risk of non-compliance. The combination of thorough data preparation and targeted visualizations provides a comprehensive view of GDPR enforcement and its financial implications.
 
 ## How to Use
 
