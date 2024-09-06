@@ -28,7 +28,7 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 1. **Total Fine Amount by Country**: A bar chart displaying the total fines imposed by each country.
 <p align="center">
-  <img src="Assets/Images/Total Fine Amount by Country.png" alt="Total Fine Amount by Country" width="600">
+  <img src="Assets/Images/Total Fine Amount by Country.png" alt="Total Fine Amount by Country" width="550">
 </p>
 
 
@@ -44,7 +44,7 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
 <p align="center">
-  <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="600">
+  <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="550">
 </p>
 
 
