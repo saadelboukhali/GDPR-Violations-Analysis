@@ -44,7 +44,7 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
 <p align="center">
-  <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="700">
+  <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="650">
 </p>
 
 
