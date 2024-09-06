@@ -50,7 +50,7 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 5. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount in Euro per business sector.
 <p align="center">
-  <img src="Assets/Images/Average of Fine Amount by Business Sector-1.png" alt="Average of Fine Amount by Business Sector" width="800">
+  <img src="Assets/Images/Average of Fine Amount by Business Sector-1.png" alt="Average of Fine Amount by Business Sector" width="650">
 </p>
 
 6. **Cards**: Two cards were added to the dashboard to display the "Total Fine Amount" and the "Total Number of Violations" at a glance.
