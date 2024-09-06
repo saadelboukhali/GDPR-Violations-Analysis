@@ -33,23 +33,23 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 
 2. **Number of Violations by Article Violated**: A visual representation of the frequency of violations per GDPR article.
-<p align="center">
+<p align="left">
   <img src="Assets/Images/Number of Violations by Article Violated.png" alt="Number of Violations by Article Violated" width="600">
 </p>
 
 3. **Number of Violations by Country**: A bar chart highlighting which countries have the highest number of GDPR violations.
-<p align="center">
+<p align="left">
   <img src="Assets/Images/Number of GDPR Violations by Country.png" alt="Number of GDPR Violations by Country" width="700">
 </p>
 
 4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
-<p align="center">
+<p align="left">
   <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="550">
 </p>
 
 
 5. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount in Euro per business sector.
-<p align="center">
+<p align="left">
   <img src="Assets/Images/Average of Fine Amount by Business Sector-1.png" alt="Average of Fine Amount by Business Sector" width="650">
 </p>
 
