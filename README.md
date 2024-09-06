@@ -62,6 +62,8 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 ## Dashboard
 
+![Dashboard Preview](Assets/Images/Dashboard.gif)
+
 
 ## Key Insights
 
