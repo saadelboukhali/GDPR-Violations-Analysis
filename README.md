@@ -25,34 +25,36 @@ The dataset used in this project is sourced from Kaggle, titled [GDPR Violations
 
 ## Visualizations
 
-1. **Total Fine Amount by Country**: A bar chart displaying the total fines imposed by each country.
-This map bar chart highlights the total fine amounts for each country, with France leading at €429.56M, followed by Italy (€63.05M) and Austria (€61.38M). This allows users to quickly compare the financial penalties imposed in different regions.
+1. **Total Fine Amount by Country**:
+A bar chart displaying the total fines imposed by each country, with France leading at €429.56M, followed by Italy (€63.05M) and Austria (€61.38M). This allows users to quickly compare the financial penalties imposed in different regions.
 
 <p align="left">
   <img src="Assets/Images/Total Fine Amount by Country.png" alt="Total Fine Amount by Country" width="550">
 </p>
 
-2. **Number of Violations by Article Violated**: A visual representation of the frequency of violations per GDPR article.
-A chart showing the number of GDPR violations corresponding to specific articles, with Article 5 (data processing principles) being violated 83 times and Article 6 (lawfulness of processing) 81 times. Lesser violations occurred in other articles, such as Article 9 (data processing of sensitive data).
+2. **Number of Violations by Article Violated**:
+This clustered column chart showing the number of GDPR violations corresponding to specific articles, with Article 5 (data processing principles) being violated 83 times and Article 6 (lawfulness of processing) 81 times. Lesser violations occurred in other articles, such as Article 9 (data processing of sensitive data).
+
 <p align="left">
   <img src="Assets/Images/Number of Violations by Article Violated.png" alt="Number of Violations by Article Violated" width="600">
 </p>
 
-3. **Number of Violations by Country**: A bar chart highlighting which countries have the highest number of GDPR violations.
-This bar chart shows the total number of GDPR violations reported across various European countries. Spain leads with 59 violations, followed by Romania with 32 and Bulgaria with 27. The countries are ordered to highlight the top violators.
+3. **Number of GDPR Violations by Country**:
+A stacked bar chart shows the total number of GDPR violations reported across various countries. Spain leads with 59 violations, followed by Romania with 32 and Bulgaria with 27. The countries are ordered to highlight the top violators.
    
 <p align="left">
   <img src="Assets/Images/Number of GDPR Violations by Country.png" alt="Number of GDPR Violations by Country" width="700">
 </p>
 
-4. **Total Fine Amount by Business Sector**: A breakdown of total fines according to the sector of the controller, offering insights into industry-specific compliance issues.
-This graph breaks down the total fines incurred by business sectors, showing that telecommunications and technology faced the largest overall penalties (€477.09M). Other significant sectors include retail and consumer services and energy.
+4. **Total Fine Amount by Business Sector**:
+This Pie chart breaks down the total fines incurred by business sectors, showing that telecommunications and technology faced the largest overall penalties (€477.09M). Other significant sectors include retail and consumer services and energy.
+
 <p align="left">
   <img src="Assets/Images/Total Fine Amount by Business Sector.png" alt="Total Fine Amount by Business Sector" width="550">
 </p>
 
-5. **Average of Fine Amount by Business Sector**: A card illustrating the average fine amount in Euro per business sector.
-This chart displays the average GDPR fine amount per sector, with telecommunications and technology having the highest average fine (€17,038,978.57). Other sectors such as energy and utilities, and retail/consumer services also see significant penalties, while sectors like real estate and legal consultancy experience smaller fines.
+5. **Average of Fine Amount by Business Sector**:
+ This muti-row card illustrating the average fine amount in Euro per business sector. This card displays the average GDPR fine amount per sector, with telecommunications and technology having the highest average fine (€17,038,978.57). Other sectors such as energy and utilities, and retail/consumer services also see significant penalties, while sectors like real estate and legal consultancy experience smaller fines.
 
 <p align="left">
   <img src="Assets/Images/Average of Fine Amount by Business Sector-1.png" alt="Average of Fine Amount by Business Sector" width="650">
