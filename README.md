@@ -1,6 +1,6 @@
 # GDPR Violations Analysis Dashboard
 <p align="center">
-  <img src="Assets/Images/GDPR.png" width="50%" alt="GDPR Dashboard">
+  <img src="Assets/Images/GDPR.png" width="80%" alt="GDPR Dashboard">
 </p>
 
 
